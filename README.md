@@ -1,7 +1,3 @@
-# -plam.github.io
-GIS3001c
-[ChildhoodFemaleEquityInfo_Plam_Hillsborough_County_FL.html](https://github.com/user-attachments/files/26553813/ChildhoodFemaleEquityInfo_Plam_Hillsborough_County_FL.html)
-
   <!DOCTYPE html>
   <html>
   <head>
